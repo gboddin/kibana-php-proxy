@@ -13,6 +13,8 @@ kibana-php-proxy assumes you're using one Elasticsearch index per log group (cus
 
 and let you assign those index to users.
 
+**WARNING**: You HAVE TO configure your webserver for authentication and receive $_SERVER['PHP_AUTH_USER'] from PHP
+
 kibana-proxy.php config: 
 --------------
 
