@@ -1,3 +1,8 @@
+DEPRECATED
+==========
+
+Kibana 4 can now be used with Shield (https://www.elastic.co/products/shield) which is a more robust solution allowing LDAP integration for instance.
+
 kibana-php-proxy
 ================
 
